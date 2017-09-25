@@ -1,0 +1,30 @@
+Both Daphne and Cleo have 100 dollars
+At year 1, Daphne has 110 dollars, and Cleo has 105 dollars.
+At year 2, Daphne has 120 dollars, and Cleo has 110.25 dollars.
+At year 3, Daphne has 130 dollars, and Cleo has 115.763 dollars.
+At year 4, Daphne has 140 dollars, and Cleo has 121.551 dollars.
+At year 5, Daphne has 150 dollars, and Cleo has 127.628 dollars.
+At year 6, Daphne has 160 dollars, and Cleo has 134.01 dollars.
+At year 7, Daphne has 170 dollars, and Cleo has 140.71 dollars.
+At year 8, Daphne has 180 dollars, and Cleo has 147.746 dollars.
+At year 9, Daphne has 190 dollars, and Cleo has 155.133 dollars.
+At year 10, Daphne has 200 dollars, and Cleo has 162.889 dollars.
+At year 11, Daphne has 210 dollars, and Cleo has 171.034 dollars.
+At year 12, Daphne has 220 dollars, and Cleo has 179.586 dollars.
+At year 13, Daphne has 230 dollars, and Cleo has 188.565 dollars.
+At year 14, Daphne has 240 dollars, and Cleo has 197.993 dollars.
+At year 15, Daphne has 250 dollars, and Cleo has 207.893 dollars.
+At year 16, Daphne has 260 dollars, and Cleo has 218.287 dollars.
+At year 17, Daphne has 270 dollars, and Cleo has 229.202 dollars.
+At year 18, Daphne has 280 dollars, and Cleo has 240.662 dollars.
+At year 19, Daphne has 290 dollars, and Cleo has 252.695 dollars.
+At year 20, Daphne has 300 dollars, and Cleo has 265.33 dollars.
+At year 21, Daphne has 310 dollars, and Cleo has 278.596 dollars.
+At year 22, Daphne has 320 dollars, and Cleo has 292.526 dollars.
+At year 23, Daphne has 330 dollars, and Cleo has 307.152 dollars.
+At year 24, Daphne has 340 dollars, and Cleo has 322.51 dollars.
+At year 25, Daphne has 350 dollars, and Cleo has 338.635 dollars.
+At year 26, Daphne has 360 dollars, and Cleo has 355.567 dollars.
+At year 27, Daphne has 370 dollars, and Cleo has 373.346 dollars.
+The number of years for Cleo to pass Daphne is 27
+Press any key to continue

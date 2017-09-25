@@ -1,0 +1,22 @@
+Label: Millennium Munch
+Weight: 2.85
+Calories: 350
+Please input a new name:
+ACME
+Please input new weight:
+3.01
+Please input new calories:
+400
+Label: ACME
+Weight: 3.01
+Calories: 400
+Please input another new name:
+Hershey
+Please input other new weight:
+2.01
+Please input other new calories:
+300
+Label: Hershey
+Weight: 2.01
+Calories: 300
+Press any key to continue . . .

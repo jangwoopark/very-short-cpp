@@ -1,0 +1,26 @@
+Time program 1!
+
+Military format time: 20:00:00
+
+Standard format time: 08:00:00 PM
+
+
+Please enter Hour: 13
+You did not enter a valid Hour. Try again.
+Please enter Hour: 12
+
+Enter Minute(s): 62
+You did not enter valid Minute(s). Try again.
+Enter Minute(s): 0
+
+Enter Second(s): 0
+
+Enter AM or PM: AM
+
+Military format time: 00:00:00
+
+Standard format time: 12:00:00 AM
+
+Time 1 is done!
+Time 1 is done!
+Press any key to continue . . .

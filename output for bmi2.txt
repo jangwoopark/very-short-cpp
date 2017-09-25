@@ -1,0 +1,7 @@
+Enter your height in feet first and inches later:
+How many feet? 5
+And how many inches? 10
+Also how much do you weight in pounds? 190
+Being 5 feet and 10 inches and weighting 190 pounds, you have 27.3192 as your bo
+dy mass index (BMI).
+Press any key to continue

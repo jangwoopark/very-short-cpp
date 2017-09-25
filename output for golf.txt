@@ -1,0 +1,15 @@
+You can input up to 3 players.
+Golfer's name? Jang
+Handicap? 25
+Golfer's name? John
+Handicap? 23
+Golfer's name?
+Golfer: Jang
+Handicap: 25
+Golfer: John
+Handicap: 23
+Golfer: Ann Birdfree
+Handicap: 24
+Golfer: Ann Birdfree
+Handicap: 22
+Press any key to continue . . .

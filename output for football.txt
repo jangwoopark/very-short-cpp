@@ -1,0 +1,73 @@
+Welcome to Mission College Footbal!
+You can update any quarter of the 20 games.
+Mission College scored: 19
+What game number do you wish to update 1-20?
+1
+What quarter do you want to update 1-4?
+2
+What is the score?
+19
+Do you want to continue?
+Please input 0 for Yes or 1 for No: 0
+Mission College scored: 10
+What game number do you wish to update 1-20?
+2
+What quarter do you want to update 1-4?
+1
+What is the score?
+10
+Do you want to continue?
+Please input 0 for Yes or 1 for No: 0
+Mission College scored: 6
+What game number do you wish to update 1-20?
+2
+What quarter do you want to update 1-4?
+2
+What is the score?
+6
+Do you want to continue?
+Please input 0 for Yes or 1 for No: 0
+Mission College scored: 31
+What game number do you wish to update 1-20?
+2
+What quarter do you want to update 1-4?
+3
+What is the score?
+31
+Do you want to continue?
+Please input 0 for Yes or 1 for No: 0
+Mission College scored: 17
+What game number do you wish to update 1-20?
+3
+What quarter do you want to update 1-4?
+2
+What is the score?
+17
+Do you want to continue?
+Please input 0 for Yes or 1 for No: 1
+
+You input 5 update(s).
+
+Game#-Quaters   1       2       3       4       Total
+1               0       19      0       0       19
+2               10      6       31      0       47
+3               0       17      0       0       17
+4               0       0       0       0       0
+5               0       0       0       0       0
+6               0       0       0       0       0
+7               0       0       0       0       0
+8               0       0       0       0       0
+9               0       0       0       0       0
+10              0       0       0       0       0
+11              0       0       0       0       0
+12              0       0       0       0       0
+13              0       0       0       0       0
+14              0       0       0       0       0
+15              0       0       0       0       0
+16              0       0       0       0       0
+17              0       0       0       0       0
+18              0       0       0       0       0
+19              0       0       0       0       0
+20              0       0       0       0       0
+Final Totals    10      42      31      0       83
+Press any key to continue

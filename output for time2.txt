@@ -1,0 +1,31 @@
+ Time program 2! We are going to calculate the difference of two time inputs.
+
+Please enter the first Hour(s): 12
+
+Enter the first Minute(s): 54
+
+Enter the first Second(s): 43
+
+Enter the first AM or PM: AM
+
+Please enter the second Hour(s): 1
+
+Enter the second Minute(s): 32
+
+Enter the second Second(s): 21
+
+Enter the second AM or PM: PM
+
+Standard format time: 12:54:43 AM
+
+Standard format time: 01:32:21 PM
+Time 2 is done!
+Time 2 is done!
+Time 2 is done!
+The difference is: 0 hour(s), 37 minute(s), 38 second(s).
+
+Do you want to do it again? y or n?n
+Time 2 is done!
+Time 2 is done!
+Time 2 is done!
+Press any key to continue . . .

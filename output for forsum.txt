@@ -1,0 +1,4 @@
+Input an integer number: 2
+Now input a greater integer number: 9
+The sum from 2 to 9 is 44
+Press any key to continue . . .

@@ -1,0 +1,3 @@
+Please enter a Celsius value:20
+20 degrees Celsius is 68 degrees Fahrenheit.
+Press any key to continue

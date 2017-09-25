@@ -1,0 +1,13 @@
+Please input the original investment: 1000
+Percent return in the first year: 10
+Percent return in the second year: 15
+Percent return in the third year: 13
+Percent return in the fourth year: 20
+
+Amount of original investment                   $1000
+
+Percent increase / decrease each year           10      15      13      20
+
+Value of original investment after 4 years      $1715.34
+
+Press any key to continue
