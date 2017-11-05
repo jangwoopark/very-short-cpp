@@ -1,29 +1,27 @@
-// cinexcp.cpp
+// cinexcp.cpp -- having cin throw an exception
 #include <iostream>
 #include <exception>
-using namespace std;
 
 int main()
 {
-    // have failbit cause an exception to be thown
+    using namespace std;
+    // have failbit cause an exception to be thrown
     cin.exceptions(ios_base::failbit);
-    cout.precision(2);
-    cout << showpoint << fixed;
     cout << "Enter numbers: ";
-    double sum = 0.0;
-    double input;
+    int sum = 0;
+    int input;
     try {
-	    while (cin >> input)
-	    {
-	        sum += input;
-	    }
+        while (cin >> input)
+        {
+            sum += input;
+        }
     } catch(ios_base::failure & bf)
     {
         cout << bf.what() << endl;
         cout << "O! the horror!\n";
     }
 
-    cout << "Last value entered = " << input << "\n";
-    cout << "Sum = " << sum << "\n";
-    return 0; 
+    cout << "Last value entered = " << input << endl;
+    cout << "Sum = " << sum << endl;
+    return 0;
 }
