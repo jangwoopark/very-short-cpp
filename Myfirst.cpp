@@ -1,11 +1,9 @@
 //myfirst.cpp--displays a message
 
 # include <iostream>
-int main()
+void main()
 {
 	using namespace std;
-	cout<<"Jang Park";
-	cout<<endl;
+	cout<<"Jang Park"<<endl;
 	cout<<"Sylmar,CA 91342"<<endl;
-	return 0;
 }

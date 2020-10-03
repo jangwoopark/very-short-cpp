@@ -8,10 +8,7 @@ using namespace std;
 
 struct box {	//structure for box
     char maker[40];
-    float height;
-    float width;
-    float length;
-    float volume;
+    float height,width,length,volume;
 };
 
 void output(box a);	//prototype to show output
